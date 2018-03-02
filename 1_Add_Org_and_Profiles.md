@@ -6,3 +6,4 @@
 
 
 #### Outcome
+* Users from different organizations will be able to enroll in our LMS
