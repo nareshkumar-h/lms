@@ -8,6 +8,6 @@
 * Login Requirement: None
 * Status: ON
 
-Note: Create different organizations - CIT, KVCET, CRESCENT, VELSU
+Note: Create different organizations - Banca Sella, CIT, KVCET, CRESCENT, VELSU
 
 
